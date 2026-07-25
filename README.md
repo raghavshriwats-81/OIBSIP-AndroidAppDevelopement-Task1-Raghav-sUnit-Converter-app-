@@ -45,7 +45,7 @@ raghav-unit-converter/
 Clone the Repository:
 
 Bash
-git clone [https://github.com/your-username/raghav-unit-converter.git](https://github.com/your-username/raghav-unit-converter.git)
+git clone [https://github.com/raghavshriwats-81/raghav-unit-converter.git](https://github.com/raghavshriwats-81/raghav-unit-converter.git)
 Open in Android Studio:
 
 Launch Android Studio.
